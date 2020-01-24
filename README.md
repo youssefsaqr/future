@@ -1,2 +1,3 @@
 # future
-Interested in IoT &amp; ML &amp; AI &amp; Blockchain with my favorite language (JS)
+Interested in IoT , ML , AI , Blockchain with my favorite language (JS)
+This list will get bigger in time
